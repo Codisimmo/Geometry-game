@@ -1,2 +1,2 @@
 # Geometry-game
-Jednoduchá hra vytvořená v Pythonu s použitím knihovny pygame.
+A simple game created in Python using the pygame library. Just run client.py and have un :)
